@@ -9,6 +9,4 @@
     <br />🌱 If you want to know more about me, please visit my <a href="https://www.cnblogs.com/peerless1029">blog</a>
     <br />
   </samp>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerless1029&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+</p>
